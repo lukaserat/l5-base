@@ -1,0 +1,23 @@
+{
+  "name": "dental",
+  "version": "0.0.0",
+  "authors": [
+    "Joseph Lacerna <dev.lukaserat@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexslider-rtl": "*",
+    "bootstrap-less-only": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "vue": "~0.12.7",
+    "vue-resource": "~0.1.7",
+    "vue-validator": "~1.2.2"
+  }
+}

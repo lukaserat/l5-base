@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "laravel-elixir-livereload": "0.0.3",
+    "laravel-elixir": "^2.0.0"
+  }
+}
